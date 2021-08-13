@@ -1,0 +1,15 @@
+follow steps
+
+1	 install python or anconda
+	create python env and install all the package mention below
+		fastapi
+		pip install uvicorn[standard]
+		pymongo
+		pandas
+		requests
+2 install package 
+	pandas
+	pymongo
+	os
+3	run the command to start backend server
+	uvicorn main:app --reaload
